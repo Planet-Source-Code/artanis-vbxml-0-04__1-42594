@@ -1,0 +1,14 @@
+<!-- vbXML 0.04 Example XML File -->
+<main>
+	<colors>
+		<tbox>
+			<fore>(100, 200, 300)</fore>
+			<back>(100, 100, 100)</back>
+		</tbox>
+		<lview>
+			<fore>(100, 200, 300)</fore>
+			<back>(100, 100, 100)</back>
+		</lview>
+	</colors>
+	<data>Hello, I am a node's value :-)</data>
+</main>
